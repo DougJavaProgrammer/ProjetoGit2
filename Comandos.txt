@@ -6,4 +6,3 @@ Alterando na branch staging
 agora alteração foi feita no master
 aprendendo o uso do git diff
 mais uma linha
-nova funcionalidad X (usando git revert)
