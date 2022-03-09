@@ -4,3 +4,5 @@ Staging alterado em 09/03
 Alterando na branch staging
 
 agora alteração foi feita no master
+aprendendo o uso do git diff
+mais uma linha
